@@ -1,6 +1,6 @@
 # Calendarific Test Harness
 
-C# test appliation for interacting with Calendarific.com's API using POCO's generated from their JSON types\
+C# test application for interacting with Calendarific.com's API using POCO's generated from their JSON types\
 You will need to create an account and a tokey to be able to use this sample. \
 URL Here: https://calendarific.com/\
 
